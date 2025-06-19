@@ -1,0 +1,3 @@
+Iron 500
+Copper 0
+Silicon 1000

@@ -1,0 +1,5 @@
+Biofuel 2000
+Self-ReplicatingBots 5
+SolarPanels 800
+Hydrogel 300
+Nanomaterials 150
