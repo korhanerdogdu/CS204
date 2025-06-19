@@ -1,0 +1,24 @@
+gradebook email lessons
+webcontent
+webcontent
+email
+gradebook
+gradebook
+email
+lessons
+assignments
+syllabus syllabus
+email
+resources
+
+
+
+
+
+    /*
+     Eğer `move` fonksiyonu içinde `dynamicStack` türündeki parametreleri referans olarak kullanmazsanız, fonksiyon parametreleri kopya olarak geçer ve orijinal nesneleri değiştirme yeteneği kaybolur. C++'da genellikle büyük veri yapıları gibi kopyalaması maliyetli nesneleri işlerken referans kullanmak tercih edilir. Bu sayede veri kopyalamaktan kaçınılabilir ve performans artırılabilir.
+
+     Ancak eğer `move` fonksiyonunun amacı, nesneleri değiştirme ihtiyacı duymadan sadece içeriklerini okumak veya kullanmaksa ve orijinal nesnelerin değişmemesi gerekiyorsa, o zaman referans kullanmadan da işlem yapabilirsiniz. Bu durumda fonksiyon kopyalama işlemi yapmış olur ve bu da performans açısından bazı durumlarda dezavantajlı olabilir.
+
+     Sonuç olarak, kullanmanız gereken yaklaşım, `move` fonksiyonunun amacına ve orijinal nesnelerin nasıl etkilenmesi gerektiğine bağlıdır. Referans kullanmadan da çalışabilirsiniz, ancak performans ve orijinal nesnelerin davranışı konusunda dikkatli olmanız gerekebilir.
+     */
