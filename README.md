@@ -1,59 +1,50 @@
 # CS204 - Advanced Programming  
 
 
-This repository contains my **homework submissions** for **CS204 - Advanced Programming** at **Sabancı University**.  
-The course focused on advanced programming concepts and techniques using **C++**, covering dynamic memory, data structures, templates, object-oriented design, multithreading, and more.  
+This repository contains my **complete homework submissions** for **CS204 - Advanced Programming** at **Sabancı University**.  
+The course focused on advanced C++ programming concepts including dynamic memory management, data structures, object-oriented programming (OOP), templates, multithreading, exception handling, and (optionally) graphical user interface (GUI) development.  
 
-Each homework demonstrates the application of these concepts through practical implementations, robust designs, and clean, well-documented code.
+👉 All assignments were designed, developed, and debugged using **Xcode** on macOS, demonstrating proficiency with a modern C++ toolchain and IDE.
 
 ---
 
-## 🎯 Course Objectives
+## 🎯 Learning Objectives
 
-✅ Gain mastery of **advanced C++ features**, including pointers, templates, exception handling, and multithreading.  
-✅ Develop efficient, reusable, and maintainable **data structures and algorithms**.  
-✅ Apply **object-oriented design principles** including inheritance, polymorphism, and encapsulation.  
-✅ Build solutions with **exception safety** and **thread safety** in mind.  
-✅ (Optional) Explore **graphical user interface (GUI)** development with Visual C++ if time permits.  
+This course and repository reflect my ability to:
+
+✅ Build and manage **dynamic data structures** (linked lists, stacks, queues) using pointers and manual memory management.  
+✅ Design and implement **object-oriented systems** using encapsulation, inheritance, polymorphism, and virtual functions.  
+✅ Write **generic, reusable code** with templated classes and functions.  
+✅ Develop **exception-safe** and **thread-safe** code for robust applications.  
+✅ Utilize **Xcode IDE** for code organization, build management, and debugging.  
+✅ (Where implemented) Explore **bitwise operations** and **macOS GUI programming**.
 
 ---
 
 ## 📚 Topics Covered
 
-The course covered the following key concepts:
+The repository aligns with the following course topics:
 
 - **Introduction**
-  - C++ environment overview (Visual Studio / Visual C++)
-  - Preprocessor directives, compiler/linker options, libraries, debugging
-
-- **Pointers and dynamic memory allocation**
-  - Manual memory management (`new`, `delete`)
-  - Smart pointers (where applicable)
-
-- **Linked lists**
-  - Singly and doubly linked lists
-  - Dynamic node creation and deletion
-
-- **Stacks and queues**
-  - Array-based and linked list-based implementations
-
+  - Visual C++ / Xcode IDE overview
+  - Preprocessor directives, compiler/linker options, libraries, debugging tools  
+- **Pointers & Dynamic Memory Allocation**
+  - `new`, `delete`, dynamic arrays, node management  
+- **Linked Lists**
+  - Singly and doubly linked lists  
+- **Stacks & Queues**
+  - Array-based and linked-list-based implementations  
 - **Templates**
-  - Templated classes and functions for generic programming
+  - Templated functions and classes for generic programming  
+- **Advanced OOP**
+  - Inheritance, polymorphism, virtual destructors  
+- **Data Representation**
+  - Bitwise operations, bit masking  
+- **Exception Handling**
+  - Error reporting and safe recovery  
+- **Multithreading**
+  - `std::thread`, synchronization  
+- **GUI (if implemented)**
+  - Basic macOS GUI elements via Xcode  
 
-- **Advanced object-oriented programming**
-  - Encapsulation, data abstraction
-  - Inheritance and polymorphism
-  - Design patterns (where applicable)
-
-- **Data representation**
-  - Bitwise operations, bit masking
-
-- **Exception handling**
-  - Writing robust, safe code
-
-- **Programming with threads**
-  - Basic multithreading concepts
-  - Thread creation and synchronization
-
-- **Visual programming and GUI (optional)**
 
